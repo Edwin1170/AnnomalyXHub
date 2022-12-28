@@ -11,4 +11,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Edwin1170/AnnomalyXHu
 else
    print("chees/e")
 end
-

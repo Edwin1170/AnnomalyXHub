@@ -1,0 +1,10 @@
+if game.PlaceId == (9744954014) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Edwin1170/Tha-Hood/main/Hub"))()
+elseif game.PlaceId == (5895971007)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Edwin1170/AnnomalyXHubAllusions/main/Hub"))()
+elseif game.PlaceId == (11242465380) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Edwin1170/AnnomalyXHubFindTheDoorsx/main/Hub"))()
+elseif game.PlaceId == (6299805723) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Edwin1170/AnnomalyXHubAnimeFightersSimulator/main/Hub"))()
+elseif game.PlaceId == (9498006165) then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Edwin1170/AnnomalyXHubTappingSimulator/main/Hub"))()
